@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "place_name": "Eiffel Tower",
+    "place_continent": "Europe",
+    "image": "eiffel_tower.jpg",
+    "description": "The Eiffel Tower, located in Paris, France, is one of the most iconic landmarks in the world. Completed in 1889, it stands as a symbol of French culture and engineering prowess, attracting millions of visitors each year."
+  },
+  {
+    "id": 2,
+    "place_name": "Machu Picchu",
+    "place_continent": "South America",
+    "image": "machu_picchu.jpg",
+    "description": "Machu Picchu, situated in the Andes Mountains of Peru, is an ancient Incan citadel dating back to the 15th century. This UNESCO World Heritage Site is renowned for its breathtaking architecture and stunning mountainous backdrop."
+  },
+  {
+    "id": 3,
+    "place_name": "Great Wall of China",
+    "place_continent": "Asia",
+    "image": "great_wall_of_china.jpg",
+    "description": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups."
+  },
+  {
+    "id": 4,
+    "place_name": "Grand Canyon",
+    "place_continent": "North America",
+    "image": "grand_canyon.jpg",
+    "description": "Located in Arizona, USA, the Grand Canyon is a massive geological formation carved by the Colorado River. It is renowned for its intricate landscape, vibrant colors, and hiking opportunities, attracting millions of visitors annually."
+  },
+  {
+    "id": 5,
+    "place_name": "Santorini",
+    "place_continent": "Europe",
+    "image": "santorini.jpg",
+    "description": "Santorini is a Greek island in the Aegean Sea known for its stunning sunsets, white-washed buildings, and crystal-clear waters. Its picturesque villages, such as Oia and Fira, make it a popular destination for honeymooners and vacationers."
+  },
+  {
+    "id": 6,
+    "place_name": "Sydney Opera House",
+    "place_continent": "Australia",
+    "image": "sydney_opera_house.jpg",
+    "description": "The Sydney Opera House, located in Sydney, Australia, is a UNESCO World Heritage Site and one of the most iconic buildings of the 20th century. Its distinctive sail-like design and stunning waterfront location make it a must-visit attraction."
+  },
+  {
+    "id": 7,
+    "place_name": "Petra",
+    "place_continent": "Asia",
+    "image": "petra.jpg",
+    "description": "Petra, located in southern Jordan, is a historical and archaeological city famous for its rock-cut architecture and water conduit system. It was the capital of the Nabatean Kingdom and is now a UNESCO World Heritage Site."
+  },
+  {
+    "id": 8,
+    "place_name": "Taj Mahal",
+    "place_continent": "Asia",
+    "image": "taj_mahal.jpg",
+    "description": "The Taj Mahal, situated in Agra, India, is a UNESCO World Heritage Site and one of the most beautiful buildings in the world. Built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal, it is a symbol of eternal love and architectural brilliance."
+  },
+  {
+    "id": 9,
+    "place_name": "The Louvre",
+    "place_continent": "Europe",
+    "image": "the_louvre.jpg",
+    "description": "The Louvre Museum, located in Paris, France, is the world's largest art museum and a historic monument in Paris. Its vast collection spans from antiquity to the 21st century, including famous works like the Mona Lisa and the Venus de Milo."
+  },
+  {
+    "id": 10,
+    "place_name": "Victoria Falls",
+    "place_continent": "Africa",
+    "image": "victoria_falls.jpg",
+    "description": "Victoria Falls, located on the Zambezi River at the border between Zambia and Zimbabwe, is one of the largest and most spectacular waterfalls in the world. Known locally as 'The Smoke That Thunders,' it is a UNESCO World Heritage Site."
+  },
+  {
+    "id": 11,
+    "place_name": "Banff National Park",
+    "place_continent": "North America",
+    "image": "banff_national_park.jpg",
+    "description": "Banff National Park, situated in the Canadian Rockies of Alberta, Canada, is Canada's oldest national park and a UNESCO World Heritage Site. It offers stunning mountain scenery, wildlife viewing, and outdoor activities year-round."
+  },
+  {
+    "id": 12,
+    "place_name": "Angkor Wat",
+    "place_continent": "Asia",
+    "image": "angkor_wat.jpg",
+    "description": "Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world. Built in the early 12th century, it is a UNESCO World Heritage Site and a prime example of Khmer architecture and civilization."
+  },
+  {
+    "id": 13,
+    "place_name": "The Colosseum",
+    "place_continent": "Europe",
+    "image": "colosseum.jpg",
+    "description": "The Colosseum, located in Rome, Italy, is an ancient amphitheater built during the Roman Empire. It is one of Rome's most popular tourist attractions, known for its architectural grandeur and historical significance."
+  },
+  {
+    "id": 14,
+    "place_name": "Niagara Falls",
+    "place_continent": "North America",
+    "image": "niagara_falls.jpg",
+    "description": "Niagara Falls, situated on the border between Ontario, Canada, and New York, USA, is a collection of three waterfalls renowned for their beauty and power. Visitors can experience the falls up close via boat tours or observation decks."
+  },
+  {
+    "id": 15,
+    "place_name": "The Great Barrier Reef",
+    "place_continent": "Australia",
+    "image": "great_barrier_reef.jpg",
+    "description": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands. It is a UNESCO World Heritage Site and a paradise for snorkelers and divers."
+  },
+  {
+    "id": 16,
+    "place_name": "Mesa Verde National Park",
+    "place_continent": "North America",
+    "image": "mesa_verde_national_park.jpg",
+    "description": "Mesa Verde National Park, located in Colorado, USA, preserves some of the best-preserved Ancestral Puebloan archaeological sites in the United States. Visitors can explore ancient cliff dwellings and learn about the culture of the Ancestral Puebloans."
+  },
+  {
+    "id": 17,
+    "place_name": "Serengeti National Park",
+    "place_continent": "Africa",
+    "image": "serengeti_national_park.jpg",
+    "description": "Serengeti National Park, located in Tanzania, is renowned for its vast savannahs, diverse wildlife, and annual wildebeest migration. It is a UNESCO World Heritage Site and a top destination for safari enthusiasts."
+  },
+  {
+    "id": 18,
+    "place_name": "Acropolis of Athens",
+    "place_continent": "Europe",
+    "image": "acropolis_of_athens.jpg",
+    "description": "The Acropolis of Athens, located in Greece, is an ancient citadel overlooking the city of Athens. It contains several ancient buildings of great architectural and historic significance, including the Parthenon."
+  },
+  {
+    "id": 19,
+    "place_name": "Yellowstone National Park",
+    "place_continent": "North America",
+    "image": "yellowstone_national_park.jpg",
+    "description": "Yellowstone National Park, spanning parts of Wyoming, Montana, and Idaho, USA, is known for its geothermal features, including geysers, hot springs, and mud pots. It is also home to diverse wildlife, such as bison and grizzly bears."
+  },
+  {
+    "id": 20,
+    "place_name": "Bora Bora",
+    "place_continent": "Oceania",
+    "image": "bora_bora.jpg",
+    "description": "Bora Bora is a small South Pacific island northwest of Tahiti in French Polynesia. Surrounded by sand-fringed motus (islets) and a turquoise lagoon protected by a coral reef, it's known for its scuba diving."
+  },
+  {
+    "id": 21,
+    "place_name": "Chichen Itza",
+    "place_continent": "North America",
+    "image": "chichen_itza.jpg",
+    "description": "Chichen Itza, located in the Yucatan Peninsula of Mexico, is an ancient Mayan city and a UNESCO World Heritage Site. It is famous for its pyramid, known as El Castillo or the Temple of Kukulcan, and its astronomical significance."
+  },
+  {
+    "id": 22,
+    "place_name": "Giza Pyramids",
+    "place_continent": "Africa",
+    "image": "giza_pyramids.jpg",
+    "description": "The Giza Pyramids, located near Cairo, Egypt, are some of the most famous monuments in the world. Built as tombs for the Pharaohs, these ancient structures continue to awe visitors with their size, precision, and mystery."
+  },
+  {
+    "id": 23,
+    "place_name": "Galápagos Islands",
+    "place_continent": "South America",
+    "image": "galapagos_islands.jpg",
+    "description": "The Galápagos Islands, located in the Pacific Ocean off the coast of Ecuador, are renowned for their unique biodiversity and role in Charles Darwin's theory of evolution. Visitors can explore diverse ecosystems and encounter endemic wildlife."
+  },
+  {
+    "id": 24,
+    "place_name": "Alhambra",
+    "place_continent": "Europe",
+    "image": "alhambra.jpg",
+    "description": "The Alhambra, located in Granada, Spain, is a stunning palace and fortress complex dating back to the Moorish era. Its intricate Islamic architecture, beautiful gardens, and rich history make it a top attraction in Spain."
+  },
+  {
+    "id": 25,
+    "place_name": "Tokyo",
+    "place_continent": "Asia",
+    "image": "tokyo.jpg",
+    "description": "Tokyo, the capital city of Japan, is a bustling metropolis known for its modernity, cultural heritage, and vibrant nightlife. Visitors can explore historic temples, futuristic skyscrapers, and bustling markets."
+  },
+  {
+    "id": 26,
+    "place_name": "Venice",
+    "place_continent": "Europe",
+    "image": "venice.jpg",
+    "description": "Venice, located in northeastern Italy, is renowned for its unique cityscape built on a network of canals. Visitors can explore historic landmarks such as St. Mark's Basilica and the Grand Canal by gondola or foot."
+  },
+  {
+    "id": 27,
+    "place_name": "Kruger National Park",
+    "place_continent": "Africa",
+    "image": "kruger_national_park.jpg",
+    "description": "Kruger National Park, located in South Africa, is one of Africa's largest game reserves, known for its diverse wildlife and conservation efforts. Visitors can spot the Big Five (lion, leopard, elephant, buffalo, rhinoceros) and enjoy guided safaris."
+  },
+  {
+    "id": 28,
+    "place_name": "Antelope Canyon",
+    "place_continent": "North America",
+    "image": "antelope_canyon.jpg",
+    "description": "Antelope Canyon, located in Arizona, USA, is a slot canyon known for its mesmerizing light beams and swirling sandstone walls. Guided tours are available to explore this natural wonder."
+  },
+  {
+    "id": 29,
+    "place_name": "Marrakech",
+    "place_continent": "Africa",
+    "image": "marrakech.jpg",
+    "description": "Marrakech, located in Morocco, is a vibrant city known for its bustling souks, historic medina, and colorful gardens. Visitors can immerse themselves in Moroccan culture, cuisine, and architecture."
+  },
+  {
+    "id": 30,
+    "place_name": "Yosemite National Park",
+    "place_continent": "North America",
+    "image": "yosemite_national_park.jpg",
+    "description": "Yosemite National Park, located in California, USA, is famed for its giant sequoia trees, iconic rock formations like El Capitan and Half Dome, and stunning waterfalls such as Yosemite Falls and Bridalveil Fall."
+  },
+  {
+    "id": 31,
+    "place_name": "Iguazu Falls",
+    "place_continent": "South America",
+    "image": "iguazu_falls.jpg",
+    "description": "Iguazu Falls, located on the border of Argentina and Brazil, is a series of stunning waterfalls surrounded by lush rainforest. It is one of the largest waterfall systems in the world and a UNESCO World Heritage Site."
+  },
+  {
+    "id": 32,
+    "place_name": "Bagan",
+    "place_continent": "Asia",
+    "image": "bagan.jpg",
+    "description": "Bagan, located in Myanmar, is an ancient city featuring thousands of Buddhist temples, pagodas, and stupas dating back to the 9th to 13th centuries. It is a UNESCO World Heritage Site and a must-visit for history enthusiasts."
+  },
+  {
+    "id": 33,
+    "place_name": "The Amazon Rainforest",
+    "place_continent": "South America",
+    "image": "amazon_rainforest.jpg",
+    "description": "The Amazon Rainforest, spanning several South American countries, is the largest tropical rainforest in the world and home to an incredibly diverse array of flora and fauna. Visitors can explore its rivers, wildlife, and indigenous cultures."
+  },
+  {
+    "id": 34,
+    "place_name": "Mont Saint-Michel",
+    "place_continent": "Europe",
+    "image": "mont_saint_michel.jpg",
+    "description": "Mont Saint-Michel is a rocky tidal island located in Normandy, France. It is crowned by a medieval abbey and surrounded by narrow streets and ramparts. The site draws millions of visitors each year."
+  },
+  {
+    "id": 35,
+    "place_name": "Dubai",
+    "place_continent": "Asia",
+    "image": "dubai.jpg",
+    "description": "Dubai, located in the United Arab Emirates, is known for its modern architecture, luxury shopping, and vibrant nightlife. Visitors can explore iconic landmarks such as the Burj Khalifa, the world's tallest building."
+  },
+  {
+    "id": 36,
+    "place_name": "Bali",
+    "place_continent": "Asia",
+    "image": "bali.jpg",
+    "description": "Bali, an Indonesian island known"
+}
+]
