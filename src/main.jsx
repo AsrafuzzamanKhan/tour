@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
+
 import './index.css'
 import {
   createBrowserRouter,
@@ -13,6 +13,7 @@ import PlaceDetails from './Components/PlaceDetails/PlaceDetails.jsx';
 import AllTours from './Components/AllTours/AllTours.jsx';
 import Contact from './Components/Contact/Contact.jsx';
 import Blog from './Components/Blog/Blog.jsx';
+
 
 const router = createBrowserRouter([
   {
