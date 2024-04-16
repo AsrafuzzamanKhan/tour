@@ -6,7 +6,7 @@ const AllTours = () => {
     const [places] = usePlaceData();
     return (
         <div className=' min-h-screen w-full'>
-            <div className=' tours text-center bg py-32 mb-8'>
+            <div className=' tours text-center py-32 mb-8'>
                 <h3 className='text-xl font-semibold'>All Tours</h3>
 
             </div>
