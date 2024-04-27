@@ -75,9 +75,9 @@ const PlaceDetails = () => {
                 </div>
                 {/* over view  */}
 
-                <div className='flex'>
-                    <div className='flex-1'>
-                        <h1>Over view</h1>
+                <div className='flex mt-12'>
+                    <div className='flex-[2]'>
+                        <h1 className='text-2xl'>Overview</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus placeat quo sit atque repudiandae similique debitis impedit! Voluptatibus cum exercitationem soluta aut minima iusto eos, laboriosam ratione tenetur debitis perspiciatis et neque repudiandae dicta qui commodi voluptas vero. Corporis, nesciunt quod consequatur rerum nulla perspiciatis debitis cupiditate accusantium voluptates nostrum hic cum totam, odit perferendis delectus, temporibus officiis error aliquam harum. Pariatur cum molestias iure eligendi perferendis natus voluptates modi molestiae commodi fugiat debitis vero, rem consectetur hic non beatae libero praesentium consequatur repellendus animi ratione soluta, similique ducimus. Eaque aut officia consectetur deleniti minus reiciendis doloribus dolores, at eveniet?</p>
                     </div>
                     <div className='flex-1'>
