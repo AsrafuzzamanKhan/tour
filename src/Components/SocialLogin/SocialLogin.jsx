@@ -20,7 +20,7 @@ const SocialLogin = () => {
                 // console.log('google login user: ', loggedGoogleUser)
                 const saveUser = { name: loggedGoogleUser.displayName, email: loggedGoogleUser.email }
                 // console.log('saveUser', saveUser);
-                fetch('https://traveler-server.vercel.app/users', {
+                fetch('http://localhost:5000/users', {
                     method: "POST",
                     headers: {
                         'content-type': 'application/json'

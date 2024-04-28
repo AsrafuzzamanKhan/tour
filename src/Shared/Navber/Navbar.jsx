@@ -1,13 +1,28 @@
-import React, { useEffect, useState } from 'react'
-import { Link, NavLink } from 'react-router-dom'
+import React, { useContext, useEffect, useState } from 'react'
+import { Link, NavLink, Navigate } from 'react-router-dom'
 import logo from '../../assets/logo.png'
 import { GiHamburgerMenu } from "react-icons/gi";
 import { FaXmark } from "react-icons/fa6";
+import { AuthContext } from '../../providers/AuthProvider/AuthProvider';
+import { FaRegUserCircle } from 'react-icons/fa';
 
 
 const Navbar = () => {
     const [open, setOpen] = useState(false);
+    const { user, logOut } = useContext(AuthContext)
     const [isSticky, setIsSticky] = useState(false);
+
+    const handleLogOut = () => {
+        logOut()
+            .then(() => {
+                // Sign-out successful.
+                Navigate('/')
+                // console.log(navigate)
+            }).catch((error) => {
+                console.log(error)
+                // An error happened.
+            });
+    }
     // set toggleMenu
 
     const toggleMenu = () => {
@@ -50,6 +65,37 @@ const Navbar = () => {
                         ))}
 
                     </ul>
+
+                    <div className="flex items-center justify-center gap-x-[10px] ">
+
+                        {/* drop down  */}
+                        <div className="dropdown dropdown-hover dropdown-bottom dropdown-end ">
+                            <label tabIndex={0} >
+                                <div className="avatar online placeholder">
+                                    <div className="bg-neutral text-neutral-content rounded-full  w-10">
+                                        {user ? <img src={user?.photoURL} alt={user?.displayName} /> : <><FaRegUserCircle /></>}
+
+                                    </div>
+                                </div>
+
+                            </label>
+                            <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52 dark:bg-white">
+                                <li className="bg-black p-2 rounded">Hello, {user?.displayName}</li>
+
+                                <li className="mt-1 mx-auto">
+                                    <div className=" text-black hover:scale-95 hover:bg-slate-400 dark:hover:bg-blue-400
+                                    dark:hover:text-white
+                                    ">
+                                        {user?.email ?
+                                            <button onClick={handleLogOut} className="text-[16px]">Logout</button>
+                                            :
+                                            <Link className="text-[16px] " to='/login'> Login</Link>
+                                        }
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                     {/* btn for large device  */}
                     <div className='hidden lg:flex items-center space-x-8'>
                         <a href="/login" className='hidden lg:flex items-center text-orange-600'>Login</a>
